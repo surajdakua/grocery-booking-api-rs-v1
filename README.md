@@ -8,5 +8,5 @@ Grocery Booking API
 ### GET http://localhost:8080/grocery-app-rs-v1/admin/items
 
 ## User Endpoints:
-### GET http://localhost:8080/grocery-app-rs-v1/items?role=user
-### POST http://localhost:8080/grocery-app-rs-v1/book-item?role=user
+### GET http://localhost:8080/grocery-app-rs-v1/items
+### POST http://localhost:8080/grocery-app-rs-v1/book-item
